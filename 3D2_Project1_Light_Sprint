@@ -1,11 +1,13 @@
 // A basic everyday NeoPixel strip test program.
 
-/* Strandtest example code modified Jan 2021 Doug Whitton
- *  This example is a barebones version of the Adafruit sample code
- *  It lights up a strip of 2 neopixels  
- *  The colour is random 
- *  Thee colorWipe method is called from the loop()
- *  strip is a variable name for an Adafruit_NeoPixel object
+3D2-Project1 
+
+modified by Yikai Chen - Feb 2021 
+
+To be honest, I haven't made much change to the code.
+I just changed some color values.
+
+Add any other comments you want here...
  *  
 */
 #include <Adafruit_NeoPixel.h>
