@@ -1,4 +1,16 @@
 /*
+
+// A basic everyday NeoPixel strip test program.
+
+3D2-Project1 
+
+modified by Yikai Chen - Feb 2021 
+
+To be honest, I haven't made much change to the code.
+I just changed some color values.
+
+Add any other comments you want here...
+
  Controlling a servo position using a potentiometer (variable resistor)
  by Michal Rinott <http://people.interaction-ivrea.it/m.rinott>
 
